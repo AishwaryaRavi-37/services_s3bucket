@@ -9,7 +9,7 @@
   "author": "Aishwarya Ravi",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "aws-sdk": "^2.698.0",
     "chalk": "^4.1.0",
     "commander": "^5.1.0",
